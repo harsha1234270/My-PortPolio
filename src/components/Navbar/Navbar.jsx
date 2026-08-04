@@ -18,11 +18,11 @@ function Navbar() {
       </ul>
 
       <div className="social-icons">
-        <a href="https://github.com" target="_blank" rel="noreferrer">
+        <a href="https://github.com/harsha1234270" target="_blank" rel="noreferrer">
           <FaGithub />
         </a>
 
-        <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+        <a href="https://linkedin.com/in/keshavhn" target="_blank" rel="noreferrer">
           <FaLinkedin />
         </a>
       </div>
